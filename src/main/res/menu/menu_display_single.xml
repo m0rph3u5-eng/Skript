@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/action_clipboard"
+        android:icon="@drawable/abc_ic_menu_paste_mtrl_am_alpha"
+        android:title="@string/clipboard"
+        android:showAsAction="always"
+        app:showAsAction="always"/>
+</menu>
