@@ -1,3 +1,3 @@
 # SkriptBetav3
 
-AN sms app with additional mpesa functionality
+This is an android sms app with additional mpesa functionality and display modes.
