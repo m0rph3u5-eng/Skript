@@ -10,12 +10,12 @@ Main Screen Showing SMS databse<br>
 /
 /
 
-Individual SMS opened<br>
+Custom view showing fomratted MPESA messages<br>
 ![skriptmessagescreen2](https://user-images.githubusercontent.com/63499020/160075705-c7593a5a-cd9b-401f-9cf1-4b629f7b0357.jpg)
 /
 /
 /
 
 
-Custom view showing fomratted MPESA messages<br>
+Regular view showing MPESA messages<br>
 ![skriptmessagescreen](https://user-images.githubusercontent.com/63499020/160075729-87859e4e-a1aa-4894-9f95-5967ccaad272.jpg)
