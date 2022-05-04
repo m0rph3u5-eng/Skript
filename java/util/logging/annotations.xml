@@ -1,0 +1,6 @@
+<root>
+    <item name='java.util.logging.Handler'>
+        <annotation name='java.lang.annotation.Deprecated' />
+        <annotation name='org.jetbrains.annotations.Nullable' />
+    </item>
+</root>
